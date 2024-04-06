@@ -3,5 +3,8 @@
 @tailwind utilities;
 
 body{
-  background-color: darkblue;
+  background-color: darkgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
